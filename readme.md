@@ -8,7 +8,7 @@ My goal is to transition into Software Engineering and Artificial Intelligence.
 
 ## Goals
 -Learn Git & GitHub
--Master Python
+-Master Python for AI and Automation
 -Improve Java skills
 -Build real-world software projects
 -Learn AI and Machine Learning 
@@ -19,3 +19,6 @@ My goal is to transition into Software Engineering and Artificial Intelligence.
 -VS Code configured
 -First GitHub repository created
 -First commit pushed
+
+## Current Project 
+Learning Git and GitHub while building my software engineering portfolio.
